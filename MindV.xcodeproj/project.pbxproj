@@ -18,6 +18,7 @@
 		1C212F0A21CD1BC40059AA8C /* MindVL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C212F0221CD1BC40059AA8C /* MindVL.swift */; };
 		1C212F0B21CD1BD00059AA8C /* MindVL.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212F0221CD1BC40059AA8C /* MindVL.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 		1C212F0D21CD37760059AA8C /* BaseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C212F0C21CD37760059AA8C /* BaseViewModel.swift */; };
+		1C212F0E21CD39580059AA8C /* BaseViewModel.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212F0C21CD37760059AA8C /* BaseViewModel.swift */; };
 		BA8705962C0E443C830CFF48 /* Pods_MindV.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C5CC4B6D9121A7F6FDD4928 /* Pods_MindV.framework */; };
 /* End PBXBuildFile section */
 
@@ -161,6 +162,7 @@
 			files = (
 				1C212EEF21CD1B7E0059AA8C /* MindV.h in Headers */,
 				1C212F0B21CD1BD00059AA8C /* MindVL.swift in Headers */,
+				1C212F0E21CD39580059AA8C /* BaseViewModel.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,8 +264,8 @@
 				1C212F0A21CD1BC40059AA8C /* MindVL.swift in Sources */,
 				1C212F0821CD1BC40059AA8C /* DataType.swift in Sources */,
 				1C212F0621CD1BC40059AA8C /* CacheManager.swift in Sources */,
-				1C212F0521CD1BC40059AA8C /* ImageViewModel.swift in Sources */,
 				1C212F0D21CD37760059AA8C /* BaseViewModel.swift in Sources */,
+				1C212F0521CD1BC40059AA8C /* ImageViewModel.swift in Sources */,
 				1C212F0421CD1BC40059AA8C /* FileViewModel.swift in Sources */,
 				1C212F0321CD1BC40059AA8C /* JsonViewModel.swift in Sources */,
 				1C212F0921CD1BC40059AA8C /* API.swift in Sources */,
