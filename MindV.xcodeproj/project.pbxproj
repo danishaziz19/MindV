@@ -17,6 +17,7 @@
 		1C212F0921CD1BC40059AA8C /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C212F0121CD1BC40059AA8C /* API.swift */; };
 		1C212F0A21CD1BC40059AA8C /* MindVL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C212F0221CD1BC40059AA8C /* MindVL.swift */; };
 		1C212F0B21CD1BD00059AA8C /* MindVL.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212F0221CD1BC40059AA8C /* MindVL.swift */; settings = {ATTRIBUTES = (Public, ); }; };
+		1C212F0D21CD37760059AA8C /* BaseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C212F0C21CD37760059AA8C /* BaseViewModel.swift */; };
 		BA8705962C0E443C830CFF48 /* Pods_MindV.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C5CC4B6D9121A7F6FDD4928 /* Pods_MindV.framework */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		1C212EFF21CD1BC40059AA8C /* DataType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataType.swift; sourceTree = "<group>"; };
 		1C212F0121CD1BC40059AA8C /* API.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 		1C212F0221CD1BC40059AA8C /* MindVL.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MindVL.swift; sourceTree = "<group>"; };
+		1C212F0C21CD37760059AA8C /* BaseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewModel.swift; sourceTree = "<group>"; };
 		9C5CC4B6D9121A7F6FDD4928 /* Pods_MindV.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MindV.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9C2C6537710AA4848F27E3F /* Pods-MindV.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MindV.release.xcconfig"; path = "Pods/Target Support Files/Pods-MindV/Pods-MindV.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -96,6 +98,7 @@
 				1C212EF721CD1BC40059AA8C /* JsonViewModel.swift */,
 				1C212EF821CD1BC40059AA8C /* FileViewModel.swift */,
 				1C212EF921CD1BC40059AA8C /* ImageViewModel.swift */,
+				1C212F0C21CD37760059AA8C /* BaseViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				1C212F0821CD1BC40059AA8C /* DataType.swift in Sources */,
 				1C212F0621CD1BC40059AA8C /* CacheManager.swift in Sources */,
 				1C212F0521CD1BC40059AA8C /* ImageViewModel.swift in Sources */,
+				1C212F0D21CD37760059AA8C /* BaseViewModel.swift in Sources */,
 				1C212F0421CD1BC40059AA8C /* FileViewModel.swift in Sources */,
 				1C212F0321CD1BC40059AA8C /* JsonViewModel.swift in Sources */,
 				1C212F0921CD1BC40059AA8C /* API.swift in Sources */,
