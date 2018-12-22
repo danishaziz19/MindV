@@ -21,7 +21,7 @@ MindVL.shared().loadJsonAsData(from: url) { (response, error) in {
 
 }
 
-MindVL.shared().loadImage(from: url, imageView: self, placeHolder: "placeHolder_image")
+MindVL.shared().loadImage(from: url, imageView: imageView, placeHolder: "placeHolder_image")
 
 
 ```
