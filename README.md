@@ -9,7 +9,7 @@ CocoaPods is a dependency manager for Objective-C, which automates and simplifie
 
 ```bash
 platform :ios, '9.0'
-pod 'MindV', :git => 'https://github.com/pakidanish/MindV.git', :tag => '1.0.10'    
+pod 'MindV', :git => 'https://github.com/pakidanish/MindV.git', :tag => '1.0.11'    
 ```
 
 ## Usage
